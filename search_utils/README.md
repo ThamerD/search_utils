@@ -10,7 +10,7 @@ $ pip install search_utils
 
 ## Usage
 
-- TODO
+- `find_all` can be used to return a list of all matching objects within a given list.
 
 ## Contributing
 
